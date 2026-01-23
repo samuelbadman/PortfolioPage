@@ -7,6 +7,7 @@ Email: <a href="mailto: samuelbadman@outlook.com"><b>samuelbadman@outlook.com</b
 <!--
 <a href="https://samuelbadman.com"><b>SHOWREEL (under development)</b></a><br><br>
 -->
+PORTFOLIO<br>
 <a href="https://github.com/samuelbadman"><b>GitHub</b></a><br>
 <a href="https://artstation.com/samuelbadman"><b>ArtStation</b></a><br>
 <!--

@@ -5,7 +5,7 @@ Real-time Technical Artist / Animator, Unreal Engine Developer & Blueprint, C++,
 <a href="https://linkedin.com/in/samuelbadman-dev"><b>Linkedin</b></a><br>
 Email: <a href="mailto: samuelbadman@outlook.com"><b>samuelbadman@outlook.com</b></a><br><br>
 
-<a href="https://samuelbadman.com"><b>SHOWREEL (under development)</b></a><br><br>
+<a href="https://www.youtube.com/watch?v=Dy_QsqfJXeQ"><b>SHOWREEL</b></a><br><br>
 
 PORTFOLIO<br>
 <a href="https://github.com/samuelbadman"><b>GitHub</b></a><br>
